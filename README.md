@@ -3,7 +3,7 @@ Calculadora en C++, aplicando conceptos de herencia , realiza operaciones básic
 Universidad Iberoemericana Puebla
 Autores: Ariel Hernández Barrón
          Samara García González
-Profesor:Mario Andrés De Los Santos
+Profesor:Mario Andrés De Los Santos @MarSH-Up
 Materia :Lab. Elementos Programables 2
 
 
